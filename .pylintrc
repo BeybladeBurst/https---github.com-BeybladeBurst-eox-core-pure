@@ -1,0 +1,11 @@
+[pylint]
+ignore = migrations,CVS
+
+[MESSAGES CONTROL]
+disable=
+	unused-argument,
+	too-few-public-methods,
+	fixme,
+	line-too-long,
+	arguments-differ,
+	duplicate-code
